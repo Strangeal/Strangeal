@@ -1,12 +1,27 @@
-```javascript
-const Justice = {
-  code: [HTML, CSS, JAVASCRIPT, SCSS, TAILWIND],
-  tools: [React, Redux, Node, Storybook, Styled-Components, Jest, Docker],
-  architecture: ["microservices", "event-driven", "design system pattern"],
+### Hey Justice here 👋
 
- challenge: "I am doing the #1YearOfCode fullstack software development at Microverse focused on front-end and back-end"
-}
-```
+---
+### *I am a Front-end Developer*
+<br />
+
+
+- 🔭 I’m currently working on JavaScript, Webpack 
+- 🌱 I’m currently learning React.js, Redux, SSR, PWA's 
+- 👯 I’m looking to collaborate on **Open Source Project**
+- 💬 Ask me about *anything* 
+- 📫 How to reach me: **bajerijustice@gmail.com** 
+- 😄 Pronouns: He / Him 
+- ⚡ Fun fact: I really like electronics and programming 
+
+
+### Tech & Tools Preference
+
+<img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white">
+<img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white">
+<img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff">
+<img src="https://img.shields.io/badge/-Sass-cc6699?style=flat&logo=sass&logoColor=ffffff">
+<img src="http://img.shields.io/badge/-Git-F1502F?style=flat&logo=git&logoColor=FFFFFF">
+<img src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF">
 
 <!--START_SECTION:waka-->
 
