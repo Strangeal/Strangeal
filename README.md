@@ -1,12 +1,14 @@
-### Hey Justice here 👋
+### Hey there 👋, I'm Justice Bajeri 🇬🇭
 
 ---
 ### *I am a Front-end Developer*
 <br />
 
+Hi, I'm Justice Bajeri, a Front-end Developer 🚀 from Ghana, currently, I'm a Software student at 🙍🏽‍♂️ @Microverse. I'm a creative CSS enthusiast, with a constantly growing love for languages. Beside's programming, I enjoy watching movies and playing video games(FIFA).
+
 
 - 🔭 I’m currently working on JavaScript, Webpack 
-- 🌱 I’m currently learning React.js, Redux, SSR, PWA's 
+- 🌱 I’m currently learning React.js, Redux, 
 - 👯 I’m looking to collaborate on **Open Source Project**
 - 💬 Ask me about *anything* 
 - 📫 How to reach me: **bajerijustice@gmail.com** 
