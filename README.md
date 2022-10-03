@@ -1,16 +1,19 @@
-### Hi there 👋
+const thai = {
+  pronouns: "she" | "her",
+  code: [HTML, CSS, JAVASCRIPT, SCSS, TAILWIND],
+  tools: [React, Redux, Node, Storybook, Styled-Components, Jest, Docker],
+  architecture: ["microservices", "event-driven", "design system pattern"],
+  techCommunities: {
+                        coorganizer: "AfroPython",
+                        speaker: "Latinity",
+                        mentor: "RailsGirls POA"
+                      },
+ challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
+}
 
-<!--
-**Strangeal/Strangeal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+This week I spent my time on ![icons8-alarm-clock](https://user-images.githubusercontent.com/107192076/193572926-6da3feb8-5eae-42c1-be4d-063b0d623ed1.gif)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+JavaScript   13 hrs 45 mins  ███████████████████▒░░░░░   78.18 %
+CSS         1 hr 25 mins     ██████▒░░░░░░░░░░░░░░░░░░   15.00 %
+SCSS       36 mins           █▒░░░░░░░░░░░░░░░░░░░░░░░   06.82 %
