@@ -10,11 +10,11 @@ Hi, I'm Justice Bajeri, a Front-end Developer 🚀 from Ghana, currently, I'm a 
 - 🔭 I’m currently working on JavaScript, Webpack 
 - 🌱 I’m currently learning React.js, Redux, Ruby,
 - 👯 I’m looking to collaborate on **Open Source Project**
-- 👨‍💻 I’m available for **hiring opportunity**
+- 👨‍💻 I’m available for a **hiring opportunity**
 - 💬 Ask me about *anything* 
 - 📫 How to reach me: **bajerijustice@gmail.com** 
 - 😄 Pronouns: He / Him 
-- ⚡ Fun fact: I really like electronics and programming 
+- ⚡ Fun fact: I like electronics and programming 
 
 
 ### Tech & Tools Preference
