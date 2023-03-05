@@ -4,7 +4,7 @@
 ### *I am a Front-end Developer*
 <br />
 
-Hi, I'm Justice Bajeri, a Front-stack Developer 🚀 from Ghana, currently, I'm a Software student at 🙍🏽‍♂️ @Microverse. I'm a creative CSS enthusiast, with a constantly growing love for languages. Beside's programming, I enjoy watching movies and playing video games(FIFA).
+Hi, I'm Justice Bajeri, a Full-stack Developer 🚀 from Ghana, currently, I'm a Software student at 🙍🏽‍♂️ @Microverse. I'm a creative CSS enthusiast, with a constantly growing love for languages. Beside's programming, I enjoy watching movies and playing video games(FIFA).
 
 
 - 🔭 I’m currently working on JavaScript, Webpack 
